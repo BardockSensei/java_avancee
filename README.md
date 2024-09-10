@@ -1,6 +1,6 @@
 ## Programmation Java Avancée : Swing, JSP, Android SDK
 
-Cours de M2 Conception Intégration Multimédia - Enseignant : M. Pierre-marie Gandoin
+Cours de M2 Conception et Intégration Multimédia - Enseignant : M. Pierre-marie Gandoin
 
 Université Lumière Lyon 2 - Campus "Portes des Alpes"
 
